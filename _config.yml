@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Deeja Cruz / Personal Website"
+title                    : "Deeja Cruz"
 title_separator          : "-"
 name                     : &name "Deeja Cruz"
 description              : &description "The personal website of Deeja Cruz"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/deeja-cruz-6565924b"
+  linkedin         : "deeja-cruz-6565924b"
   orcid            :
   pinterest        :
   soundcloud       :
